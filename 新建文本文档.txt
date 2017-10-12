@@ -3,7 +3,7 @@ http://www.weixinqiang.cc/Bendian/photoUpload/report_20170523.xls
 mobile01/imageshotel/rdashico.svg  打赏  userbank!dashanginit
 http://common.diditaxi.com.cn/general/webEntry?wx=true   mobile01/imageshotel/carico.svg  一键约车
 wxa3b19e6f480defe5    b44b3c3683149ec7eec5b799b97f25ed
-7301709070000134
+7301709070000134123123213213
 
 ALTER TABLE `database_wsd`.`tbl_dv_shuijin_status` ADD COLUMN `devicecode` VARCHAR(60) NULL AFTER `status`; 
   http://127.0.0.1:8080/yujing_wxhz/dv_camera!videoshow
